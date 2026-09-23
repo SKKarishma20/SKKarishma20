@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SKKarishma20/SKKarishma20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Karishma 👋
 
-Here are some ideas to get you started:
+### Software Engineer · AI/ML Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building software. Exploring intelligence. Occasionally outsmarting a bug.
+
+📍 New York · 🎓 NYU MS Computer Science
+
+[LinkedIn](https://linkedin.com/in/karishma-suresh-kumar) · [Email](mailto:ks7943@nyu.edu)
+
+</div>
+
+---
+
+### A little about me…
+
+💻 I build across software engineering and AI/ML.  
+🔬 I research how machines see, learn, and respond.  
+🧩 I like tricky problems and surprisingly simple solutions.  
+🚧 A few experiments are taking shape. More on those soon.
+
+### Usually somewhere between
+
+`Python` `Java` `TypeScript` · `APIs & Cloud` · `AI Agents` `Computer Vision`
+
+---
+
+<div align="center">
+
+**A little research. A lot of building. A few things still under wraps. ✨**
+
+</div>
